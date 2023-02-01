@@ -15,7 +15,9 @@ language: Brazilian Portuguese.
 
 Projeto realizado durante o evento NLW da [Rocketseat](https://www.rocketseat.com.br) na edição "Setup" em 2023.  
 
-Todas as [bibliotecas]() e [tecnologias]() utilizadas estão disponíveis neste documento.  
+Todas as [bibliotecas](https://github.com/FrBreno/NLW_Setup#03-mais-bibliotecas-e-depend%C3%AAncias-do-projeto) e [tecnologias](https://github.com/FrBreno/NLW_Setup#02-tecnologias) utilizadas estão disponíveis neste documento.  
+
+Acesse [este link](https://www.figma.com/community/file/1195326661124171197) para o projeto no Figma.
 
 
 ## 🛠️ Projeto
